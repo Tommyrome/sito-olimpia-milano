@@ -1,0 +1,126 @@
+html{
+  background: red;
+  background-size: cover;
+}
+body{
+  margin-left: 100px;
+  margin-right: 100px;
+  margin-bottom: 0px;
+  margin-top: 0px;
+  background: white;
+}
+#social {
+  position: absolute;
+  margin-left: -1230px;
+  margin-top: 1px;
+}
+#social2{
+  position: absolute;
+  margin-left: -1130px;
+  margin-top: 1px;
+}
+#social3{
+  position: absolute;
+  margin-left: -1030px;
+  margin-top: 1px;
+}
+#social4{
+  position: absolute;
+  margin-left: 1230px;
+  margin-top: 1px;
+}
+#sistemazione{
+  background: red;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-right: 10px;
+  margin-left: 10px;
+}
+h1{
+  font-family: 'Cairoli Classic Condensed', sans-serif;
+  font-weight: bold;
+  color: white;
+  font-size: 50px;
+}
+#immagineprinc{
+  float: left;
+  margin-right: 12px;
+}
+table, th{
+  margin-left: 10px;
+  caption-side: top;
+  border: 5px solid white;
+  border-collapse: collapse;
+  color: white;
+}
+th{
+  border: 5px solid white;
+  padding: 5px;
+  text-align: center;
+  vertical-align: bottom;
+  height: 25px;
+  font-family: 'Cairoli Classic Condensed', sans-serif;
+  font-weight: bold;
+}
+#tabella{
+  background: red;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+h2{
+  font-family: 'Cairoli Classic Condensed', sans-serif;
+  font-weight: bold;
+  color: white;
+  margin: 10px;
+}
+#classifica{
+  font-family: 'Cairoli Classic Condensed', sans-serif;
+  font-weight: bold;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: red;
+}
+#lba, #eurolega{
+  border: 5px solid black;
+}
+#lba\ foto{
+  margin-left: 200px;
+}
+#eurolega\ foto{
+  margin-left: 420px
+}
+#deco{
+  border: 4px solid black;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+#lbacla{
+  margin-left: 275px;
+  color: black;
+  font-family: 'Cairoli Classic Condensed', sans-serif;
+  font-weight: bold;
+}
+#eurolegacla{
+  margin-right: 230px;
+  color: black;
+  font-family: 'Cairoli Classic Condensed', sans-serif;
+  font-weight: bold;
+}
+#sistemaclassifica{
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+ }
+#torna\ indietro{
+  color: white;
+}
+h4{
+  color: white;
+  font-family: 'Cairoli Classic Condensed', sans-serif;
+  font-weight: bold;
+  margin-left: 10px;
+}
+
